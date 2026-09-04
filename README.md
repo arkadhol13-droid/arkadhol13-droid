@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on Data Analytics and Automation Projects<br>🌱 Learning Advanced SQL, Python, Power BI, and Cloud Technologies<br>💬 Ask me about Data Analysis, Excel, SQL, Python, and Streamlit<br>⚡ Built and deployed a cloud-based Data Analytics Platform
+🔭 Currently working on Data Analytics and Automation Projects<br>🌱 Advanced SQL, Python, Power BI, and Cloud Technologies<br>💬 Ask me about Data Analysis, Excel, SQL, Python, and Streamlit<br>⚡ Built and deployed a cloud-based Data Analytics Platform
 
 
 ## 🌐 Socials:
